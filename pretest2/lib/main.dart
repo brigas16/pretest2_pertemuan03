@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           foregroundColor: Colors.black,
         ),
       ), // ... to here.
-      home: const RandomWords(), // And add the const back here.
+      home: RandomWords(), // And add the const back here.
     );
   }
 }
